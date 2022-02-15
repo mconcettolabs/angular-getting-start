@@ -1,3 +1,1 @@
-# angular-rirdmk
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-rirdmk)
+# Getting started with angular code
